@@ -3,5 +3,5 @@ We need to analyze the results of an experiment conducted with a data science te
 | Project name | Description | Used Libraries |
 |----------|----------|----------|
 | [AA-test](aa_test.ipynb)  | Validation of the correctness of the split testing system.   | python, numpy, pandas, scipy.stats, matplotlib  |
-| AB-test   | Conducting analysis of A/B test data.  | python, numpy, pandas, scipy.stats, matplotlib   |
-| AB-test  | Analysis of the test based on the metric of linearized likes.  | python, numpy, pandas, scipy.stats, seaborn |
+| [AB-test](ab_test_1.ipynb)   | Conducting analysis of A/B test data.  | python, numpy, pandas, scipy.stats, matplotlib   |
+| [AB-test](ab_test_2.ipynb)  | Analysis of the test based on the metric of linearized likes.  | python, numpy, pandas, scipy.stats, seaborn |
