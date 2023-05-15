@@ -1,4 +1,4 @@
-We need to analyze the results of an experiment conducted with a data science team. The experiment took place from 2023-01-24 to 2023-01-30 inclusive. Two groups were involved in the experiment: Group 2 used one of the new post recommendation algorithms, while Group 1 served as the control group.
+We need to analyze the results of an experiment conducted with a data science team. The experiment took place from 2023-01-31 to 2023-02-06 inclusive. Two groups were involved in the experiment: Group 2 used one of the new post recommendation algorithms, while Group 1 served as the control group.
 # Preparation and conducting an A/B test.
 | Project name | Description | Used Libraries |
 |----------|----------|----------|
